@@ -713,3 +713,20 @@ footer {
     max-width: 800px;
     margin: 20px 0;
 }
+
+.donations-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+}
+
+.qr-container {
+    margin: 20px 0;
+}
+
+.qr-container img {
+    max-width: 300px;
+    height: auto;
+}
